@@ -2,7 +2,7 @@
 
 Welcome to the world of developing state-of-the-art language models!
 
-![Language Models](_img\llms.jpg)
+![Language Models](https://github.com/mohd-faizy/Developing-Large-Language-Models/blob/main/_img/llms.jpg?raw=true)
 
 # Developing-Large-Language-Models
 
