@@ -1,3 +1,9 @@
+# Developing Large Language Models
+
+Welcome to the world of developing state-of-the-art language models!
+
+![Language Models](url)
+
 # Developing-Large-Language-Models
 
 This repository contains the latest techniques for developing state-of-the-art language models responsible for the recent boom in generative AI models, like OpenAI's GPT-4, Meta's LLaMA 2, Mistral-7B, and Anthropic's Claude.
@@ -30,55 +36,41 @@ Master deep learning with PyTorch to discover how neural networks can be used to
    - **Human-Like Interaction:** Designed to simulate natural conversation patterns, Claude facilitates more authentic communication, enhancing user engagement and satisfaction.
    - **Ethical Considerations:** Anthropic emphasizes ethical AI practices in Claude's design, prioritizing user privacy and safety to ensure responsible deployment and usage.
 
-### 🌟 Introduction
-
-Master the art of deep learning with PyTorch. Unlock the secrets of neural network architectures for modeling unstructured data, with a special focus on text. Here’s what awaits you:
-
 ### Learning Path
 
-1. **Introduction to Deep Learning with PyTorch**
-   - Dive into the fundamentals of deep learning.
-   - Construct neural networks from scratch using PyTorch tensors and autograd.
-   - Fine-tune hyperparameters using techniques like gradient descent and backpropagation.
+- **Introduction to Deep Learning with PyTorch:** Fundamentals of deep learning and constructing neural networks.
+- **Intermediate Deep Learning:** Essential architectures for images and sequential data.
+- **Deep Learning for Text with PyTorch:** Natural language processing and understanding.
+- **Introduction to LLMs in Python:** Understanding transformer-based models and implementation using libraries like Hugging Face's Transformers.
 
-2. **Intermediate Deep Learning with PyTorch**
-   - Explore essential architectures:
-     - Convolutional Neural Networks (CNNs) for image data.
-     - Recurrent Neural Networks (RNNs), Long Short-Term Memory networks (LSTMs), and Gated Recurrent Units (GRUs) for sequential data.
-   - Witness their applications in both images and sequences through hands-on projects.
+## 📝 Projects and Activities
 
-3. **Deep Learning for Text with PyTorch**
-   - Embark on a fascinating journey into the realm of text.
-   - Unleash the potential of natural language processing and understanding.
-   - Revolutionize how we interact with textual data through sentiment analysis, named entity recognition, and text generation.
+- **Project: Analyzing Car Reviews with LLMs:** Apply language modeling skills to real-world tasks.
+- **Code Along: Fine-Tuning Your Own LLaMA 2 Model:** Optimize model performance and deploy in production environments.
+- **Blog: LLMOps Essentials:** Best practices for deploying and managing large language models.
 
-4. **Introduction to LLMs in Python**
-   - Understand Large Language Models and their foundational architecture: the transformer.
-   - Explore how LLMs have reshaped various domains, from understanding to text generation.
-   - Implement transformer-based models using libraries like Hugging Face's Transformers.
-
-### Solidify Your Knowledge
-
-- 🚗 **Project: Analyzing Car Reviews with LLMs**
-  Apply your language modeling skills to real-world tasks.
-  Utilize LLMs to analyze sentiment, extract insights, and enhance customer experiences for a car dealership company.
-  Present your findings through comprehensive reports and visualizations.
-
-- 🧪 **Code Along: Fine-Tuning Your Own Llama 2 Model**
-  Take on the role of a model engineer.
-  Optimize model performance and adapt pre-trained LLaMA 2 models to specific tasks.
-  Fine-tune hyperparameters, evaluate performance metrics, and deploy your model in production environments.
-
-- 📖 **Blog: LLMOps Essentials**
-  A practical guide to operationalizing Large Language Models.
-  Learn best practices for deploying, managing, and scaling LLMs in production environments.
-  Explore topics such as model serving, monitoring, and version control to ensure robust and reliable AI systems.
-
-### 📜 License
+## 📜 License
 
 This project is licensed under the MIT License. Feel free to explore, innovate, and share the NLP magic with the world!
 
-Join us on this epic journey to redefine the boundaries of text data analysis. Embrace the future of llms in Python and unleash the full potential of unstructured data. Your adventure begins now!
+Join us on this epic journey to redefine the boundaries of text data analysis. Embrace the future of language models in Python and unleash the full potential of unstructured data. Your adventure begins now!
 
 **Feel free to fork, star, and contribute to this repository** 🌟🤖
+
+
+
+
+#### $\color{skyblue}{\textbf{Connect with me:}}$
+
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][clickedin]
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
+
+[twitter]: https://twitter.com/F4izy
+[clickedin]: https://www.clickedin.com/in/mohd-faizy/
+[Portfolio]: https://mohdfaizy.com/
+
+********************************************************************************************************
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
 
