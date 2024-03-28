@@ -2,7 +2,7 @@
 
 Welcome to the world of developing state-of-the-art language models!
 
-![Language Models](url)
+![Language Models](_img\llms.jpg)
 
 # Developing-Large-Language-Models
 
