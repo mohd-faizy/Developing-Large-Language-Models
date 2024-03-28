@@ -1,7 +1,8 @@
 # Developing-Large-Language-Models
-# Welcome to the Large Language Models (LLMs) Development Track!
 
-Embark on an exciting journey to master Large Language Models (LLMs) and explore the forefront of generative AI. In this track, you’ll delve into cutting-edge techniques used to craft state-of-the-art language models. Let’s dive into the details:
+This repository contains the latest techniques for developing state-of-the-art language models responsible for the recent boom in generative AI models, like OpenAI's GPT-4, Meta's LLaMA 2, Mistral-7B, and Anthropic's Claude.
+
+Master deep learning with PyTorch to discover how neural networks can be used to model patterns in unstructured data, such as text. Discover how the transformer architecture has revolutionized text modeling, and build your own transformer model from scratch! Finally, learn to work with and fine-tune pre-trained LLMs available from Hugging Face. Let’s dive into the details:
 
 ### 🚀 Cutting-Edge Techniques
 
