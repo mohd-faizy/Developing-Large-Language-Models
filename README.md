@@ -3,10 +3,54 @@
 ![Language Models](https://github.com/mohd-faizy/Developing-Large-Language-Models/blob/main/_img/llms.jpg?raw=true)
 
 
+<div align="center">
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main/stargazers">
+    <img src="https://img.shields.io/github/stars/mohd-faizy/Developing-Large-Language-Models?style=social" alt="Stars">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main/network/members">
+    <img src="https://img.shields.io/github/forks/mohd-faizy/Developing-Large-Language-Models?style=social" alt="Forks">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main/issues">
+    <img src="https://img.shields.io/github/issues/mohd-faizy/Developing-Large-Language-Models" alt="Issues">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/mohd-faizy/Developing-Large-Language-Models" alt="License">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main">
+    <img src="https://img.shields.io/badge/author-mohd--faizy-red" alt="author">
+  </a>
+  <a href="https://img.shields.io/badge/Made%20with-markdown-blue">
+    <img src="https://img.shields.io/badge/Made%20with-markdown-blue" alt="Made with Markdown">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main">
+    <img src="https://img.shields.io/github/languages/top/mohd-faizy/Developing-Large-Language-Models" alt="Language">
+  </a>
+  <a href="https://img.shields.io/badge/platform-jupyter%20labs-blue">
+    <img src="https://img.shields.io/badge/platform-jupyter%20labs-blue" alt="Platform">
+  </a>
+  <a href="https://img.shields.io/maintenance/yes/2023">
+    <img src="https://img.shields.io/maintenance/yes/2023" alt="Maintained">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main">
+    <img src="https://img.shields.io/github/last-commit/mohd-faizy/Developing-Large-Language-Models" alt="Last Commit">
+  </a>
+  <a href="https://opensource.com/resources/what-open-source">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love svg2">
+  </a>
+  <a href=https://github.com/mohd-faizy/Developing-Large-Language-Models/tree/main">
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" alt="Contributions Welcome">
+  </a>
+  <a href="https://img.shields.io/github/repo-size/mohd-faizy/Natural_Language_Processing_in_Python">
+    <img src="https://img.shields.io/github/repo-size/mohd-faizy/Developing-Large-Language-Models" alt="Size">
+  </a>
+</div>
+
+
+
 
 This repository contains the latest techniques for developing state-of-the-art language models responsible for the recent boom in generative AI models, like OpenAI's GPT-4, Meta's LLaMA 2, Mistral-7B, and Anthropic's Claude.
 
-Master deep learning with PyTorch to discover how neural networks can be used to model patterns in unstructured data, such as text. Discover how the transformer architecture has revolutionized text modeling, and build your own transformer model from scratch! Finally, learn to work with and fine-tune pre-trained LLMs available from Hugging Face. Let’s dive into the details:
+Mastering deep learning with PyTorch to discover how neural networks can be used to model patterns in unstructured data, such as text. Discover how the transformer architecture has revolutionized text modeling, and build your own transformer model from scratch! Finally, learn to work with and fine-tune pre-trained LLMs available from Hugging Face. Let’s dive into the details:
 
 ### 🚀 Cutting-Edge LLMs
 
