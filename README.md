@@ -1,10 +1,8 @@
 # Developing Large Language Models
 
-Welcome to the world of developing state-of-the-art language models!
-
 ![Language Models](https://github.com/mohd-faizy/Developing-Large-Language-Models/blob/main/_img/llms.jpg?raw=true)
 
-# Developing-Large-Language-Models
+
 
 This repository contains the latest techniques for developing state-of-the-art language models responsible for the recent boom in generative AI models, like OpenAI's GPT-4, Meta's LLaMA 2, Mistral-7B, and Anthropic's Claude.
 
@@ -47,13 +45,11 @@ Master deep learning with PyTorch to discover how neural networks can be used to
 
 - **Project: Analyzing Car Reviews with LLMs:** Apply language modeling skills to real-world tasks.
 - **Code Along: Fine-Tuning Your Own LLaMA 2 Model:** Optimize model performance and deploy in production environments.
-- **Blog: LLMOps Essentials:** Best practices for deploying and managing large language models.
+- **LLMOps Essentials:** Best practices for deploying and managing large language models.
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to explore, innovate, and share the NLP magic with the world!
-
-Join us on this epic journey to redefine the boundaries of text data analysis. Embrace the future of language models in Python and unleash the full potential of unstructured data. Your adventure begins now!
+This project is licensed under the MIT License.Embrace the future of language models in Python and unleash the full potential of unstructured data.
 
 **Feel free to fork, star, and contribute to this repository** 🌟🤖
 
