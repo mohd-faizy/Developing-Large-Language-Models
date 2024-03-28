@@ -8,31 +8,19 @@ This repository contains the latest techniques for developing state-of-the-art l
 
 Master deep learning with PyTorch to discover how neural networks can be used to model patterns in unstructured data, such as text. Discover how the transformer architecture has revolutionized text modeling, and build your own transformer model from scratch! Finally, learn to work with and fine-tune pre-trained LLMs available from Hugging Face. Let’s dive into the details:
 
-### 🚀 Cutting-Edge Techniques
+### 🚀 Cutting-Edge LLMs
 
-1. **OpenAI’s GPT-4**
-   - **Architecture:** GPT-4 is built on a transformer-based architecture with a substantial number of layers and attention heads, facilitating sophisticated language modeling.
-   - **Parameters:** It boasts billions of parameters, enabling it to capture intricate language patterns with high fidelity.
-   - **Pre-training Data:** GPT-4 is trained on diverse corpora from the web, books, and other sources, achieving broad language understanding across various domains.
-   - **Fine-Tuning Capabilities:** GPT-4 supports fine-tuning for specific tasks, making it adaptable to various domains and applications.
+| Model                | Parameters (Billion) | Strengths                                     | Weaknesses                                                  |
+|----------------------|----------------------|-----------------------------------------------|-------------------------------------------------------------|
+| Bard (Google AI)     | 137                  | - Factual language understanding: Proficient at comprehending factual information. | - Limited access: Not widely accessible to the public. May be conservative in outputs. |
+| GPT-4 (OpenAI)       | Unknown (estimated 100T+) | - Text generation: Capable of creative writing and generating diverse textual content. | - Not yet publicly available: Details about its capabilities remain undisclosed. |
+| Jurassic-1 Jumbo (AI21 Labs) | 178           | - Large factual knowledge base: Rich repository of factual information. | - Prone to factual errors: Due to its extensive knowledge, it may occasionally provide incorrect facts. |
+| Megatron-Turing NLG (NVIDIA) | 530           | - Multilinguality and translation: Effective at handling multiple languages and translations. | - Focus on factual language: May prioritize factual accuracy over creativity. |
+| Llama (Meta)         | 137                  | - Efficiency and code generation: Efficiently generates code and technical content. | - Still under development: Ongoing improvements and refinements are needed. |
+| LLaMA 7B (Google AI) | 7                    | - Efficiency and balanced capabilities: Efficient while maintaining a good balance of features. | - Less powerful than some other LLMs: May not match the capabilities of larger models. |
+| Mistral-7B (Salesforce) | 7                  | - Efficiency and balanced capabilities: Efficient with a well-rounded feature set. | - Less powerful than some other LLMs: May not excel in certain specialized tasks. |
+| Claude (Anthropic)   | Unknown              | - Safety focus and alignment with human values: Prioritizes safety and ethical outputs. | - Limited information available: Details about its architecture and performance are scarce. |
 
-2. **Meta’s LLaMA 2**
-   - **Architecture:** LLaMA 2 employs a hybrid architecture combining recurrent and transformer layers, enhancing context understanding and capturing nuanced relationships within text.
-   - **Parameters:** With millions of parameters, LLaMA 2 strikes a balance between model size and performance, optimizing both efficiency and effectiveness.
-   - **Long-Range Dependencies:** LLaMA 2 efficiently handles long-range dependencies, crucial for understanding context and capturing dependencies across distant tokens.
-   - **Self-Supervised Learning:** LLaMA 2 leverages self-supervised learning techniques for improved generalization and robustness in various natural language processing tasks.
-
-3. **Mistral-7B**
-   - **Architecture:** Mistral-7B utilizes a deep transformer architecture with numerous layers and attention mechanisms, enabling it to capture complex language patterns and semantics.
-   - **Parameters:** With billions of parameters, Mistral-7B achieves state-of-the-art performance in large-scale language representation learning, capturing rich semantic representations.
-   - **Pre-training Strategies:** It leverages diverse pre-training objectives and massive text corpora to capture rich semantic representations, facilitating broad language understanding.
-   - **Fine-Tuning Flexibility:** Mistral-7B provides fine-tuning capabilities for specific downstream tasks, ensuring adaptability and effectiveness across diverse applications.
-
-4. **Anthropic’s Claude**
-   - **Architecture:** Claude features a human-like language understanding architecture, blending transformer and cognitive science principles to emulate human-like comprehension.
-   - **Parameters:** Although smaller in scale, Claude prioritizes quality over quantity, aiming for nuanced understanding and facilitating meaningful interactions.
-   - **Human-Like Interaction:** Designed to simulate natural conversation patterns, Claude facilitates more authentic communication, enhancing user engagement and satisfaction.
-   - **Ethical Considerations:** Anthropic emphasizes ethical AI practices in Claude's design, prioritizing user privacy and safety to ensure responsible deployment and usage.
 
 ### Learning Path
 
