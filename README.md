@@ -91,12 +91,12 @@ This project is licensed under the MIT License.Embrace the future of language mo
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][clickedin]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
 [<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
-[clickedin]: https://www.clickedin.com/in/mohd-faizy/
-[Portfolio]: https://mohdfaizy.com/
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[Portfolio]: https://ai.stackexchange.com/users/36737/faizy
 
 ********************************************************************************************************
 
